@@ -1,0 +1,19 @@
+# 仮想環境
+venv/
+.venv/
+
+# 個人用・試作ファイル
+app1.py
+app_streamlit_quiz_template.py
+merge_questions.py
+stats.json
+
+# 学習履歴（個人差が出る）
+stats.json
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
